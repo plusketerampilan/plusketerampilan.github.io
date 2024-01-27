@@ -1,1 +1,3 @@
-# plusketerampilan.github.io
+# Plus Keterampilan
+
+Mendokumentasikan perjalanan belajar mengetik barisan code.
