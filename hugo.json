@@ -1,4 +1,5 @@
 {
     "baseURL": "https://plusketerampilan.github.io/",
-    "title": "Plus Keterampilan"
+    "title": "Plus Keterampilan",
+    "canonifyURLs": true
 }

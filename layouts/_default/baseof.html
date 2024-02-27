@@ -7,10 +7,13 @@
             {{ .Site.Title }}
         {{ end }}
     </title>
+    <link rel="stylesheet" href="/assets/bootstrap/bootstrap.min.css">
 </head>
 <body>
     {{ block "main" . }}
         <!-- The part of the page that begins to differ between templates -->
     {{ end }}
+
+    <script src="/assets/bootstrap/bootstrap.bundle.min.js"></script>
 </body>
 </html>
